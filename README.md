@@ -4,21 +4,13 @@
 
 ### 使用方法
 
-主要：
-
 ```bash
-bash <(curl -Lso- https://git.io/superspeed_uxh)
-```
-
-备用：
-
-```bash
-bash <(curl -Lso- https://raw.githubusercontent.com/uxh/superspeed/master/superspeed.sh)
+bash <(curl -Lso- https://raw.githubusercontent.com/Eveaz/superspeed/master/superspeed.sh)
 ```
 
 ### 节点更新时间
 
-2020年06月19日
+2022年08月25日
 
 ---
 
@@ -26,4 +18,4 @@ bash <(curl -Lso- https://raw.githubusercontent.com/uxh/superspeed/master/supers
 
 <a name="脚注2">2</a>: 仅包括中国大陆地区电信、联通、移动节点。
 
-<a name="脚注3">3</a>: 使用 [ookla](https://bintray.com/ookla/download/download_file?file_path=ookla-speedtest-1.0.0-x86_64-linux.tgz) 提供的测速程序。
+<a name="脚注3">3</a>: 使用 [ookla](https://install.speedtest.net/app/cli/ookla-speedtest-1.2.0-linux-x86_64.tgz) 提供的测速程序。
