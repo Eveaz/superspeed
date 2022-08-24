@@ -108,9 +108,8 @@ speed_test(){
 
 preinfo() {
 	echo "——————————————————————————————————————————————————————————"
-	echo " SuperSpeed 全面测速修复版. By UXH & ernisn & oooldking"
+	echo " SuperSpeed 全面测速修复版. By Eveaz & UXH & oooldking"
 	echo " 节点更新: 2022/08/25 | 脚本更新: 2022/08/25"
-	echo " Github: https://github.com/uxh/superspeed"
 	echo "——————————————————————————————————————————————————————————"
 }
 
