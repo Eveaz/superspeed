@@ -74,7 +74,7 @@ checkwget() {
 checkspeedtest() {
 	if  [ ! -e './speedtest-cli/speedtest' ]; then
 		echo "正在安装 Speedtest-cli"
-		wget --no-check-certificate -qO speedtest.tgz https://files.eveaz.com/Speedtest/ookla-speedtest-1.2.0-linux-x86_64.tgz > /dev/null 2>&1
+		wget --no-check-certificate -qO speedtest.tgz https://dl.lamp.sh/files/ookla-speedtest-1.1.1-linux-${sys_bit}.tgz > /dev/null 2>&1
 	fi
 	mkdir -p speedtest-cli && tar zxvf speedtest.tgz -C ./speedtest-cli/ > /dev/null 2>&1 && chmod a+rx ./speedtest-cli/speedtest
 }
