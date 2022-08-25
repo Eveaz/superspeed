@@ -136,9 +136,9 @@ runtest() {
 
 		 speed_test '3633' '上海' '电信'
 		 speed_test '28946' '重庆５Ｇ' '电信'
-		 speed_test '34115' '天津５Ｇ' '电信'
+		 # speed_test '34115' '天津５Ｇ' '电信'
 		 speed_test '29353' '湖北武汉５Ｇ' '电信'
-		 speed_test '17145' '安徽合肥５Ｇ' '电信'
+		 # speed_test '17145' '安徽合肥５Ｇ' '电信'
 		 speed_test '28225' '湖南长沙５Ｇ' '电信'
 		 speed_test '26352' '江苏南京５Ｇ' '电信'
 		 speed_test '34988' '辽宁沈阳５Ｇ' '电信'
